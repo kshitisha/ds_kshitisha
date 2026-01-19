@@ -5,7 +5,7 @@ This project analyzes the relationship between trader behavior and market sentim
 
 ### Structure
 - notebook_1.ipynb: Complete analysis (Google Colab)
-- csv_files/: Processed datasets
+- csv_files/: Processed dataset
 - outputs/: Visualizations
 - ds_report.pdf: Final insights report
 
